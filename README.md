@@ -1,7 +1,7 @@
 Guid Generator for Visual Studio
 ========
 
-A Visual Studio extension for quickly creating simple Guid values into your clipboard. Currently supported on Visual Studio 2010, 2012 and 2013.
+A Visual Studio extension for quickly creating simple Guid values into your clipboard. Currently supported on Visual Studio 2010, 2012 and 2013. It automatically puts a Guid into your clipboard when invoked, but you can turn that off.
 
 ![Guid Generator](/Assets/generator.PNG?raw=true)
 
